@@ -1,4 +1,7 @@
 # 智能 / 文件目录架构
+
+> 🌲 主仓库 · [资源森林 RForest（GitHub）](https://github.com/geekChen01/Resources-Forest) ｜ [Gitee 镜像](https://gitee.com/OpenSourceWalker/Resources-Forest)
+
 BY 21 Truman_Jie, Jaco留白;
 > 智能科学与技术专业课程学习资料。按「课表 → 一门课一个文件夹 → 真题试卷 / 练习题 / 资料」组织。
 > 生成日期：2026-07-25。每门课程含 README.md，声明所属学期与资料构成。
